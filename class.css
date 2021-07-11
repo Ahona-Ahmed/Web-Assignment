@@ -1,0 +1,48 @@
+.flex_container{
+    display: flex; 
+}
+
+.button{
+    border-radius: 40px;
+    text-decoration: none; 
+    background-image: linear-gradient(orange,tomato); 
+    font-weight: 800; 
+    padding: 3% 5% ; 
+    color: black; 
+}
+.top_div_width{
+    width: 50%;
+}
+.top_section{
+    background-image: url(Media/top-banner.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 7%;
+}
+.top_div1{
+    padding-left: 5%;
+    padding-top: 3%;
+ }
+ .top_div2{
+     padding-top: 3%;
+     padding-left: 15%;
+ }
+.middle_section{
+    background-image: url(Media/middle-banner.jpg);
+    background-repeat: no-repeat;
+    margin-bottom: 3%;
+}
+.midddle_div_width{
+    width: 50%;
+    padding: 10% 10%;
+
+}
+.boxes{
+    width:33%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 15px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px grey;
+}
+
+   

@@ -1,0 +1,34 @@
+#font{
+    font-family: 'Poppins', sans-serif;
+}
+#one{
+    color: darkorange;
+}
+.h1{
+    font-size: 45px;
+}
+#top_photo{
+    height: 107%;
+    width: 107%;
+    padding-top: 2%;
+}
+#top_div1{
+   padding-left: 5%;
+   padding-top: 3%;
+}
+#top_div2{
+    padding-top: 3%;
+    padding-left: 15%;
+}
+#middle_photo{
+    height: 100%;
+    width: 100%;
+    padding-top: 20%;
+}
+#mid_div2{
+    padding-top: 30%;
+}
+#bottom_div1{
+    padding: 5% 25% ;
+}
+    
