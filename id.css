@@ -4,9 +4,7 @@
 #one{
     color: darkorange;
 }
-.h1{
-    font-size: 45px;
-}
+
 #top_photo{
     height: 107%;
     width: 107%;
@@ -29,6 +27,19 @@
     padding-top: 30%;
 }
 #bottom_div1{
-    padding: 5% 25% ;
+    padding: 1% 15% ;
+    margin-bottom: 2%;
 }
-    
+#footer_heading{
+    font-size: 35px;
+    margin: 20px 30px;
+    text-align: center;  
+    color: cadetblue;
+    padding-top: 20px;
+} 
+#footer_p{
+    color: grey;
+    margin: 0 auto;
+    text-align: center;
+}
+   
