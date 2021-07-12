@@ -12,6 +12,8 @@
 }
 .top_div_width{
     width: 50%;
+    padding-left: 60px;
+    padding-top: 20px;
 }
 .top_section{
     background-image: url(Media/top-banner.jpg);
